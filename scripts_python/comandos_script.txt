@@ -4,7 +4,7 @@ cd /home/usuario/ebac/modulo1/scripts/
 #O segundo passo é criar o arquivo
 nano calculadora.sh
 
-#Apos criar o arquivo e escrever as instrucoes, precisamos dar ao usuario a ordem de execucao
+#Apos criar o arquivo e escrever as instrucoes, precisamos dar ao usuario a ordem de execucao e aos outros apenas leitura
 chmod 744 calculadora.sh
 
 #E por fim, executar o arquivo

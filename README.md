@@ -14,12 +14,14 @@ Voce pode clonar esse repositorio para utilizar a calculadora. O primeiro passo 
 cd /home/usuario/ebac/linux/arquivo
 ```
 
-criar o arquivo:
+criar o arquivo e editá-lo:
 ```
 nano calculadora.sh
 ```
 Caso tenha o codigo da calculadora pronto em um arquivo .py, basta escrever a seguinte instrucao no script:
 ```
+#!/bin/bash
+
 python3 /caminho/ate/arquivo.py
 ```
 Depois voce altera as permissoes para que o usuario possa executar o script e os outros apenas lê-lo

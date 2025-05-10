@@ -15,17 +15,18 @@ cd /home/usuario/ebac/linux/arquivo
 ```
 
 criar o arquivo:
-
+```
 nano calculadora.sh
-
+```
 Caso tenha o codigo da calculadora pronto em um arquivo .py, basta escrever a seguindo instrucao no script:
-
+```
 python3 /caminho/ate/arquivo.py
-
+```
 Depois voce altera as permissoes para que o usuario possa executar o script e os outros apenas lê-lo
-
+```
 chmod 744 calculadora.sh
-
+```
 e por ultimo executar o script:
-
+```
 ./calculadora.sh
+```

@@ -18,7 +18,7 @@ criar o arquivo:
 ```
 nano calculadora.sh
 ```
-Caso tenha o codigo da calculadora pronto em um arquivo .py, basta escrever a seguindo instrucao no script:
+Caso tenha o codigo da calculadora pronto em um arquivo .py, basta escrever a seguinte instrucao no script:
 ```
 python3 /caminho/ate/arquivo.py
 ```
